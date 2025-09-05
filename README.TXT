@@ -28,3 +28,8 @@ How to start this project: Create one or more TicketMachine objects.
     private Person tutor : name is tutor
     private Game game : name is game
 14. The class names are "Student", "Server", "Person", "Game"
+15. Changing it to "private price int;" puts an error in the codes and adds red stripes in the diagrame.
+    Changing it to "int private price;" puts an error in the codes and adds red stripes in the diagrame.
+    Changing it to "int price;" everything stays normal and compiles
+    (The orders does matter for "private int price;") 
+16. The semicolon at the end of a field declaration is necessary because when you remove it, it tells you "';' excepted"
