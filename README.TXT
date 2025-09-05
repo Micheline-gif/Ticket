@@ -17,4 +17,5 @@ How to start this project: Create one or more TicketMachine objects.
 3. 
 5. The only difference in the ticket is the price. Everything else looks the same
 6. They both start with "public class ClassName"
-
+7. Yes it matters, because when you change the code to "class public TicketMachine" it says error and won't compile and the diagram has red strips in it. 
+8. Yes it's possible to leave public. It doesnt change anything and will let you compile. 
