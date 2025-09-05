@@ -19,3 +19,8 @@ How to start this project: Create one or more TicketMachine objects.
 6. They both start with "public class ClassName"
 7. Yes it matters, because when you change the code to "class public TicketMachine" it says error and won't compile and the diagram has red strips in it. 
 8. Yes it's possible to leave public. It doesnt change anything and will let you compile. 
+9. It is not possible to leave out the word class because it is a requirement in the code. Won't let you compile either.
+11. 
+12. private int count : Primitive type
+    private Student representative : Class type
+    private Server host : Class type
