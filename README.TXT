@@ -14,4 +14,7 @@ Purpose of project: To illustrate the basics of fields, constructors, and method
 How to start this project: Create one or more TicketMachine objects.
 
 2. The value returned is 0 after printing the ticket
+3. 
+5. The only difference in the ticket is the price. Everything else looks the same
+6. They both start with "public class ClassName"
 
