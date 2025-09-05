@@ -13,5 +13,5 @@ It is discussed in chapter 2.
 Purpose of project: To illustrate the basics of fields, constructors, and methods.
 How to start this project: Create one or more TicketMachine objects.
 
-
+2. The value returned is 0 after printing the ticket
 
