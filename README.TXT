@@ -24,3 +24,7 @@ How to start this project: Create one or more TicketMachine objects.
 12. private int count : Primitive type
     private Student representative : Class type
     private Server host : Class type
+13. private boolean alive : name is alive
+    private Person tutor : name is tutor
+    private Game game : name is game
+14. The class names are "Student", "Server", "Person", "Game"
