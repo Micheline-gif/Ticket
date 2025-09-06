@@ -35,3 +35,6 @@ How to start this project: Create one or more TicketMachine objects.
 16. The semicolon at the end of a field declaration is necessary because when you remove it, it tells you "';' excepted"
 17. private int status;
 18. The Student class
+19. There are 2 parameters and they are string and double
+20. 
+21. 
