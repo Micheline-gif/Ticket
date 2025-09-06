@@ -33,3 +33,5 @@ How to start this project: Create one or more TicketMachine objects.
     Changing it to "int price;" everything stays normal and compiles
     (The orders does matter for "private int price;") 
 16. The semicolon at the end of a field declaration is necessary because when you remove it, it tells you "';' excepted"
+17. private int status;
+18. The Student class
